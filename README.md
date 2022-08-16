@@ -50,8 +50,6 @@ My desktop display screenshot here:
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 - I had a little scare applying my box-shadows, but weathered through it with style. 😊
